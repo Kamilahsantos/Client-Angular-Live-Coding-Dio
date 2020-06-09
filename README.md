@@ -25,3 +25,30 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## verificar vesao nodejs
+node -v
+
+### verificar versao npm 
+npm -v
+
+### instalar angular 9
+npm install -g @angular/cli@9.0.0-rc.7
+
+### verificar versao angular
+ng --version
+
+### criar projeto 
+ng new client-room
+
+- ng g s employee
+– ng g c create-employee
+– ng g c employee-details
+– ng g c employee-list
+
+npm install bootstrap jquery --save
+
+> ng g c update-employee
+
+
+
