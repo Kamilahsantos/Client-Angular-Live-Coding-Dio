@@ -41,14 +41,7 @@ ng --version
 ### criar projeto 
 ng new client-room
 
-- ng g s employee
-– ng g c create-employee
-– ng g c employee-details
-– ng g c employee-list
 
-npm install bootstrap jquery --save
-
-> ng g c update-employee
 
 
 
